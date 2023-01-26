@@ -1,2 +1,2 @@
-# fluffy-meme
-my evolutions as a beginner developer
+# study
+//my evolution as a beginner developer
